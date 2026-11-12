@@ -32,7 +32,7 @@ Plataforma institucional en producción para la gestión de certificaciones aero
 - Integración de sistemas independientes bajo un mismo portal, en coordinación con el equipo de Ingeniería Aeronáutica.
 - Código fuente institucional (no público, por confidencialidad del sector gubernamental).
 
-🔗 En producción: [apps.aviacioncivil.gob.ec](https://apps.aviacioncivil.gob.ec)
+🔗 En producción: [apps.aviacioncivil.gob.ec/tramitesdgac](https://apps.aviacioncivil.gob.ec/tramitesdgac/)
 
 ### 🛠️ Stack técnico
 
@@ -78,7 +78,7 @@ Institutional platform in production for managing national aeronautical certific
 - Integration of independent systems under a single portal, coordinated with the Aeronautical Engineering team.
 - Institutional source code (not public, due to government-sector confidentiality).
 
-🔗 Live: [apps.aviacioncivil.gob.ec](https://apps.aviacioncivil.gob.ec)
+🔗 Live: [apps.aviacioncivil.gob.ec/tramitesdgac](https://apps.aviacioncivil.gob.ec/tramitesdgac/)
 
 ### 🛠️ Tech stack
 
